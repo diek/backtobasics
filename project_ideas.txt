@@ -1,0 +1,12 @@
+cmd shell, like bash
+cmd tools, like auto source .env
+python memcache d
+https://github.com/memcached/memcached/blob/master/doc/protocol.txt
+interacting with a process que datastore
+
+learn Go, Rust
+Elexir Haskell
+
+Find opensource, github
+Read the code from others
+contribute
